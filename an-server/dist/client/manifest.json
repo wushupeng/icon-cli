@@ -45,7 +45,7 @@
       "renderer/_error.page.vue",
       "renderer/_default.page.client.ts"
     ],
-    "file": "assets/entry-server-routing.a8fa6a5d.js",
+    "file": "assets/entry-server-routing.533b46c0.js",
     "imports": [
       "_chunk-6b1a5839.js"
     ],
@@ -60,7 +60,7 @@
       "renderer/_error.page.vue",
       "renderer/_default.page.client.ts"
     ],
-    "file": "assets/entry-client-routing.5f7c1fc2.js",
+    "file": "assets/entry-client-routing.63279daa.js",
     "imports": [
       "_chunk-6b1a5839.js"
     ],
@@ -76,11 +76,10 @@
       "assets/static/index.page.72ddd770.css",
       "assets/static/el-skeleton.5aad6c0f.css"
     ],
-    "file": "assets/pages/about/index.page.2d3901ab.js",
+    "file": "assets/pages/about/index.page.a6f62e86.js",
     "imports": [
       "_chunk-40b29988.js",
       "_chunk-09807338.js",
-      "_chunk-c27b6911.js",
       "_chunk-ab7d783c.js"
     ],
     "isDynamicEntry": true,
